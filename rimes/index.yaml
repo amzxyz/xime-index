@@ -187,7 +187,7 @@ schemas:
   - 双拼
   homepage: https://github.com/amzxyz/rime-wanxiang
   appVersion: '>=2.4.0'
-  currentVersion: v17.9.6
+  currentVersion: v18.1.4
   versions:
   - version: v18.1.4
     date: '2026-10-17'
